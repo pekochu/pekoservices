@@ -1,0 +1,18 @@
+target/
+.env
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+docs/tmp/
+logs/
+docs/java-getting-started/
+
+## Tokens
+src/main/resources/twitter4j.properties
+twitter4j.properties
+src/main/resources/application-dev.properties
+src/main/resources/application-prod.properties
+system.properties
+src/main/resources/static/assets/fonts/propietary
